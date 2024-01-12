@@ -1,2 +1,2 @@
 # eshwarnamala
-https://eshwarnamala.github.io/eshwarnamala/
+https://eshwarnamala.github.io/eshwar/
